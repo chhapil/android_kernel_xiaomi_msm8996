@@ -27,7 +27,6 @@
 #include "u_ether_configfs.h"
 #include "u_rndis.h"
 #include "rndis.h"
-
 #include "../configfs.h"
 
 /*
